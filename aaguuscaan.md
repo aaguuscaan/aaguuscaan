@@ -1,8 +1,8 @@
 ![Agustina Esteban Singh Banner](https://github.com/aaguuscaan/aaguuscaan/blob/fcc81930fa464fdd74e244936110468cc0bd7e32/AGUSTINA%20ESTEBAN.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Aaguuscaan </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola! Soy Agustina Esteban </h2>
 
-<!-- ## 👋 &nbsp;Hola! Soy Aaguuscaan -->
+<!-- ## 👋 &nbsp;Hola! Soy Agustina Esteban -->
 
 💡 &nbsp;Me encanta explorar nuevas tecnologías y crear soluciones creativas en software, electrónica y diseño.\
 🎓 &nbsp;Soy estudiante de secundaria, apasionada por la programación, el diseño digital y la robótica.\
@@ -31,10 +31,10 @@
 
 ---
 
-## 🤝🏻 &nbsp;Conectemos
+## 🤝🏻 &nbsp;Contactame!
 
-<p align="center">
-<a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/-tu.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/tu_usuario/"><img src="https://img.shields.io/badge/-@tu_usuario-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/tu_usuario"><img src="https://img.shields.io/badge/-@tu_usuario-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+<p align="center"> <a href="mailto:aaguuscaan@gmail.com"><img src="https://img.shields.io/badge/-tu.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="https://www.facebook.com/aguus_estebaan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
+<a href="https://www.instagram.com/aguus_estebaan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.pinterest.com/aaguuscaan"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+
