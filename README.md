@@ -1,4 +1,4 @@
-![Agustina Esteban Singh Banner]<img width="3780" height="1890" alt="AGUSTINA ESTEBAN" src="https://github.com/user- />
+![Agustina Esteban Singh Banner](https://github.com/aaguuscaan/aaguuscaan/blob/fcc81930fa464fdd74e244936110468cc0bd7e32/AGUSTINA%20ESTEBAN.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
