@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 &nbsp;Mi Tech Stack
+## 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,7 +33,7 @@
 
 ## 🤝🏻 &nbsp;Contactame!
 
-<p align="center"> <a href="mailto:aaguuscaan@gmail.com"><img src="https://img.shields.io/badge/-tu.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+<p align="center"> <a href="mailto:aaguuscaan@gmail.com"><img src="https://img.shields.io/badge/-aaguuscaan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
 <a href="https://www.facebook.com/aguus_estebaan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> 
 <a href="https://www.instagram.com/aguus_estebaan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.pinterest.com/aaguuscaan"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
